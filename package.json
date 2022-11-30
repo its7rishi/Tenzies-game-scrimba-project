@@ -1,6 +1,7 @@
 {
   "name": "tenzies-game-scrimba-project",
   "version": "0.1.0",
+  "author": "Saptarshi Majumdar",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
